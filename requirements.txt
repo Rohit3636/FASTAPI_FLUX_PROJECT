@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+replicate
+python-multipart
+python-dotenv
+requests
+asgiref
